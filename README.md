@@ -1,3 +1,4 @@
+![Zaldy Alamsyah Mokoginta](Banner.jpg)
 # 💫 About Me:
 🎓 I’m graduate of the visual communication design vocational school<br>📸 I’m expertise in design graphic, video editing, photography and videography<br>🏫 I’m currently an undergraduate student in informatics engineering<br>👨‍💻 I’m currently learning about programming and tech
 
