@@ -46,9 +46,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/zaldymokoginta/zaldymokoginta/output/snake.svg" alt="Snake animation" />
 
-###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zaldymokoginta&icon=0&color=0)](https://visitcount.itsvg.in)
